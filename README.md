@@ -8,7 +8,8 @@ I like all aspects of coding, having done projects such as:
 - Websites :mag:
 - Apps :iphone:
 - Games :video_game:
+- Microcontroller projects :robot:
 
 <br>
 
-In terms of languages, I know: Python, HTML, JavaScript, CSS, PHP, Swift and C#
+In terms of languages, I know: Python, MATLAB, HTML, JavaScript, CSS, PHP, Swift and C#
